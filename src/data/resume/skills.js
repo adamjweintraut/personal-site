@@ -6,22 +6,17 @@ const skills = [
   },
   {
     title: 'Node.JS',
-    competency: 5,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'React',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Next.JS',
     competency: 3,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 5,
     category: ['Tools', 'Languages'],
   },
   {
@@ -46,7 +41,7 @@ const skills = [
   },
   {
     title: 'PostgreSQL/SQLite3/SQL/Redshift',
-    competency: 4,
+    competency: 5,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
@@ -61,12 +56,12 @@ const skills = [
   },
   {
     title: 'Express.JS',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'D3',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -131,7 +126,7 @@ const skills = [
   },
   {
     title: 'Jupyter',
-    competency: 3,
+    competency: 5,
     category: ['Data Science', 'Python'],
   },
   {
@@ -155,18 +150,8 @@ const skills = [
     category: ['Languages'],
   },
   {
-    title: 'Ruby on Rails',
-    competency: 3,
-    category: ['Web Development', 'Languages'],
-  },
-  {
     title: 'C++',
     competency: 1,
-    category: ['Languages'],
-  },
-  {
-    title: 'Julia',
-    competency: 2,
     category: ['Languages'],
   },
   {
@@ -176,17 +161,17 @@ const skills = [
   },
   {
     title: 'R',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
     title: 'Data Visualization',
-    competency: 3,
+    competency: 5,
     category: ['Data Science', 'Javascript'],
   },
   {
     title: 'GraphQL',
-    competency: 2,
+    competency: 1,
     category: ['Web Development', 'Databases'],
   },
   {
@@ -196,7 +181,7 @@ const skills = [
   },
   {
     title: 'Matplotlib',
-    competency: 3,
+    competency: 4,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
@@ -206,18 +191,8 @@ const skills = [
   },
   {
     title: 'Spark',
-    competency: 2,
+    competency: 4,
     category: ['Data Engineering', 'ML Engineering'],
-  },
-  {
-    title: 'Dagster',
-    competency: 2,
-    category: ['Data Engineering', 'Python', 'ML Engineering'],
-  },
-  {
-    title: 'Mypy',
-    competency: 3,
-    category: ['Python'],
   },
   {
     title: 'Pylint',
