@@ -48,7 +48,7 @@ const courses = [
     university: 'UC-Berkeley',
   },
   {
-    title: 'Elementary Matrix and Linear Algebra',
+    title: 'Elementary Matrix & Linear Algebra',
     number: 'MATH 340',
     university: 'UW-Madison',
   },
