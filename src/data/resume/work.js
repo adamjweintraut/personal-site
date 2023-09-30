@@ -35,7 +35,7 @@ const work = [
     url: 'http://target.com',
     startDate: '2020-12-01',
     endDate: '2021-06-01',
-    summary: 'Pricing and Promotions',
+    summary: 'Pricing & Promotions',
     highlights: [
       'Created a POC to automate promotion and markdown forecasts for planning, '
       + 'pricing, and operations teams to reduce workload, '
