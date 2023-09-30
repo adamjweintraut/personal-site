@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1adb3d45.css",
-    "main.js": "/static/js/main.db3e9e8b.js",
+    "main.js": "/static/js/main.f1ae0cb4.js",
     "static/js/964.81a72e32.chunk.js": "/static/js/964.81a72e32.chunk.js",
     "static/js/117.dafb2ef5.chunk.js": "/static/js/117.dafb2ef5.chunk.js",
     "static/js/478.8ead2843.chunk.js": "/static/js/478.8ead2843.chunk.js",
     "static/js/922.950c5cf1.chunk.js": "/static/js/922.950c5cf1.chunk.js",
     "static/js/161.9796e1de.chunk.js": "/static/js/161.9796e1de.chunk.js",
-    "static/js/18.caaada1a.chunk.js": "/static/js/18.caaada1a.chunk.js",
+    "static/js/18.7cfbf747.chunk.js": "/static/js/18.7cfbf747.chunk.js",
     "static/js/191.4554789e.chunk.js": "/static/js/191.4554789e.chunk.js",
     "static/js/209.7a797c6e.chunk.js": "/static/js/209.7a797c6e.chunk.js",
     "static/js/625.a9f9b60b.chunk.js": "/static/js/625.a9f9b60b.chunk.js",
@@ -15,19 +15,19 @@
     "index.html": "/index.html",
     "static/media/about.md": "/static/media/about.13069834c3e4e4afbc13.md",
     "main.1adb3d45.css.map": "/static/css/main.1adb3d45.css.map",
-    "main.db3e9e8b.js.map": "/static/js/main.db3e9e8b.js.map",
+    "main.f1ae0cb4.js.map": "/static/js/main.f1ae0cb4.js.map",
     "964.81a72e32.chunk.js.map": "/static/js/964.81a72e32.chunk.js.map",
     "117.dafb2ef5.chunk.js.map": "/static/js/117.dafb2ef5.chunk.js.map",
     "478.8ead2843.chunk.js.map": "/static/js/478.8ead2843.chunk.js.map",
     "922.950c5cf1.chunk.js.map": "/static/js/922.950c5cf1.chunk.js.map",
     "161.9796e1de.chunk.js.map": "/static/js/161.9796e1de.chunk.js.map",
-    "18.caaada1a.chunk.js.map": "/static/js/18.caaada1a.chunk.js.map",
+    "18.7cfbf747.chunk.js.map": "/static/js/18.7cfbf747.chunk.js.map",
     "191.4554789e.chunk.js.map": "/static/js/191.4554789e.chunk.js.map",
     "209.7a797c6e.chunk.js.map": "/static/js/209.7a797c6e.chunk.js.map",
     "745.214e2a63.chunk.js.map": "/static/js/745.214e2a63.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1adb3d45.css",
-    "static/js/main.db3e9e8b.js"
+    "static/js/main.f1ae0cb4.js"
   ]
 }
