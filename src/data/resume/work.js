@@ -32,7 +32,7 @@ const work = [
   {
     name: 'Target',
     position: 'Data Scientist',
-    url: 'http://target.com',
+    url: 'https://target.com',
     startDate: '2020-12-01',
     endDate: '2021-06-01',
     summary: 'Pricing & Promotions',
